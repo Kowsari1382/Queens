@@ -1,0 +1,8 @@
+C:\Users\Kowsari\source\repos\Queens\Queens\bin\Debug\Queens.exe.config
+C:\Users\Kowsari\source\repos\Queens\Queens\bin\Debug\Queens.exe
+C:\Users\Kowsari\source\repos\Queens\Queens\bin\Debug\Queens.pdb
+C:\Users\Kowsari\source\repos\Queens\Queens\obj\Debug\Queens.csproj.AssemblyReference.cache
+C:\Users\Kowsari\source\repos\Queens\Queens\obj\Debug\Queens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kowsari\source\repos\Queens\Queens\obj\Debug\Queens.csproj.CoreCompileInputs.cache
+C:\Users\Kowsari\source\repos\Queens\Queens\obj\Debug\Queens.exe
+C:\Users\Kowsari\source\repos\Queens\Queens\obj\Debug\Queens.pdb
